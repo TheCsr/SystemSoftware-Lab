@@ -1,0 +1,9 @@
+int
+float
+78f
+90gh
+a
+d
+are
+default
+printf
